@@ -30,7 +30,7 @@
 | [**FAIZA GOLD**](https://github.com/abdullo-yakubov/Faiza-Cash-Management) | Дипломный проект: система кассового учёта для ООО «Фаиза» | ASP.NET Core · EF Core · PostgreSQL · React · Docker · CI |
 | [**Цветочный**](https://github.com/abdullo-yakubov/flower-shop-dushanbe) | Интернет-магазин цветов с доставкой по Душанбе: каталог, корзина, заказы, 3 языка | .NET 10 · PostgreSQL · JWT · React · TypeScript |
 | [**AutoMaster CRM**](https://github.com/abdullo-yakubov/automaster-crm) | CRM для автосервиса: клиенты, автомобили, заказ-наряды *(в разработке)* | ASP.NET Core · C# |
-| [**Dental System**](https://github.com/abdullo-yakubov/dental-system) | ✏️ Опиши в одной строке, что делает проект | C# · .NET |
+| [**Dental System**](https://github.com/abdullo-yakubov/dental-system) | Локальная система для стоматологии: пациенты, визиты, планы лечения и одонтограмма | C# · .NET |
 
 ---
 
